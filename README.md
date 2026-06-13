@@ -586,5 +586,3 @@ index.html
 | IE 11 | ❌ Not supported (no ES6+) |
 
 ---
-
-*Built with ❤️ — pure HTML, CSS, and JavaScript. No build step required.*
